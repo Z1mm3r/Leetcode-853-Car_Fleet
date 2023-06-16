@@ -1,3 +1,4 @@
+//Thinking about this answer from a different direction.. literally? Focus on going from the back foward.
 var carFleet = function(target, position, speed) {
 
     //Sort helper
